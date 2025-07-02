@@ -1,6 +1,7 @@
 # MFP-Course
 ## Polynomials
 Implement polynomials with real coefficients, functions and operations with them, including:
+ - comparison which polynomial is greater;
  - evaluating the value of the polynomial over a real parameter;
  - polynomial sum;
  - polynomial difference;
